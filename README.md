@@ -1,1 +1,1 @@
-# 2018-Javascript-Beginner-Course---Brad-Schiff
+1. Excited to jump back into some Javascript.  I'm halfway finished with the Eloquent Javascript book, but I wanted to go back to a beginner walkthrough and get a deeper understanding of basic function, arrays and data objects, and higher order functions.  This video series was a good explanation of general data structures and how to manipulate or pull from them with the basic higher order functions. 
